@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar{
+    height:80px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: 'Karla';
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+}
+
+.nav img{
+    width:50px;
+}
+
+.corner{
+    display: flex;
+    align-items: center;
+    color:white;
+}
+
+h1{
+    color:white;
+    padding:8px;
+}
